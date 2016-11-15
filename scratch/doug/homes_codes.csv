@@ -1,0 +1,3 @@
+,city,county,state,tract,block,blockgroup,county_geo_id,tract_geo_id,block_geo_id
+"920 S State St, Raleigh, NC, 27601",RALEIGH,183,37,050800,1004,1,37183,37183050800,371830508001004
+"2216 E Marshall St, Richmond, VA, 23223",RICHMOND,760,51,020600,2015,2,51760,51760020600,517600206002015
